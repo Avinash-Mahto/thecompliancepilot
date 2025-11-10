@@ -1,8 +1,8 @@
 # 🛠️ CompliancePilot Support Center
 
-Welcome to the **CompliancePilot Support Center** — the official place to **report issues, request help, or share feedback** about our platform.
+Welcome to the **CompliancePilot Support Center** - the official place to **report issues, request help, or share feedback** about our platform.
 
-If you're facing a problem, have a feature request, or just want to ask a question — you're in the right place!
+If you're facing a problem, have a feature request, or just want to ask a question - you're in the right place!
 
 ---
 
