@@ -1,0 +1,5 @@
+blank_issues_enabled: false
+contact_links:
+  - name: 📧 Contact Support (Private / Urgent)
+    url: mailto:support@thecompliancepilot.com
+    about: Use this link if your issue contains sensitive information or requires immediate assistance.
