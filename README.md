@@ -81,7 +81,7 @@ If you’d like to help improve our documentation or issue templates:
 ## 🧭 Quick Links
 
 - 🌍 [Visit CompliancePilot Website](https://thecompliancepilot.com)  
-- 🧾 [Raise a Support Ticket](https://github.com/thecompliancepilot/thecompliancepilot/issues/new/choose)  
+- 🧾 [Raise a Support Ticket](https://github.com/Avinash-Mahto/thecompliancepilot/issues/new/choose)  
 - 📚 [Documentation & Tutorials](https://thecompliancepilot.com/docs)  
 - 🧑‍💻 [Developer Portal](https://github.com/thecompliancepilot)  
 
